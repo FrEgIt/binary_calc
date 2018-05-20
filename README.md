@@ -1,2 +1,2 @@
 # binary_calc
-Binary calculation in C
+Binary print in C
